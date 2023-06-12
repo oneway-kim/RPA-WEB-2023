@@ -20,7 +20,7 @@ Complete the challenge
 Start the challenge
     Open Available Browser    http://rpachallenge.com/
     Download
-    ...    http://rpachallenge.com/assets/downloadFiles/challenge.xlsx
+    ...    https://docs.google.com/spreadsheets/d/11Os_0fAWSUF-w-NJsfTgVsADNJfKojkk/edit#gid=1219093864
     ...    overwrite=True
     Click Button    Start
 
